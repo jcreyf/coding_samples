@@ -1,0 +1,5 @@
+[19204:259:0603/204743.468873:INFO:CONSOLE(1107)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-finance/_/js/k=boq-finance.GoogleFinanceUi.en_US.r2m_PEd93Qc.es5.O/am=AEAiNAAAAAB4AwsAAAAAAAAAQBQAAAAAAACAJgIQ/d=1/excm=_b,_tp,landingpageview/ed=1/dg=0/wt=2/esmo=1/rs=AC0raVLo_a-VCvgWl0av_WdF17LKQBy0tg/m=_b,_tp (1107)
+[19204:259:0603/204743.477158:INFO:CONSOLE(1107)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-finance/_/js/k=boq-finance.GoogleFinanceUi.en_US.r2m_PEd93Qc.es5.O/am=AEAiNAAAAAB4AwsAAAAAAAAAQBQAAAAAAACAJgIQ/d=1/excm=_b,_tp,landingpageview/ed=1/dg=0/wt=2/esmo=1/rs=AC0raVLo_a-VCvgWl0av_WdF17LKQBy0tg/m=_b,_tp (1107)
+[19204:259:0603/204759.498573:WARNING:controller_impl.cc(1190)] Background download complete, client: 6, completion type: 1, file size:0
+[19204:259:0603/204759.760607:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
